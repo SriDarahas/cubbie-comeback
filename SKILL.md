@@ -1,4 +1,3 @@
-
 ---
 name: cubbie-comeback
 description: Help college students catch up after missed classes or poor quiz grades by identifying learning gaps, connecting weak concepts to upcoming coursework, and guiding them through short interactive tutoring sessions. Use whenever a student misses lectures, falls behind, fails a quiz, struggles with a topic, or wants to recover before an exam.
